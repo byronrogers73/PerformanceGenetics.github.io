@@ -162,10 +162,5 @@
             {"born": 2012, "firstname": "Darius"}
         ]}
     ]},
-    {"born": 1964, "firstname": "Silvie", "children": [
-        {"born": 1987, "firstname": "Jean-Claude"},
-        {"born": 1990, "firstname": "René"},
-        {"born": 1992, "firstname": "Yvan"},
-        {"born": 1993, "firstname": "Marie-Josée"}
-    ]}
+
 ]}
