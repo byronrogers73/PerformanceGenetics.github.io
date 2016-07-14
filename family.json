@@ -4,7 +4,7 @@
         {"born": 1979, "firstname": "Mira"},
         {"born": 1985, "firstname": "Charles"}
     ]},
-    {"born": 1945, "firstname": "Honoré"},
+
     {"born": 1947, "firstname": "Jeanne d'Arc", "children": [
         {"born": 1967, "firstname": "Hyacinte", "children": [
             {"born": 1988, "firstname": "Landon"},
