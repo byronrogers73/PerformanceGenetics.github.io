@@ -1,6 +1,6 @@
-{"born": 1900, "firstname": "", "children": [
-    {"born": 1943, "firstname": "Bonny Lass"},
-    {"born": 1944, "firstname": "Regulus Mare", "children": [
+{"born": 1919, "firstname": "", "children": [
+    {"born": 1943, "firstname": "Simplice"},
+    {"born": 1944, "firstname": "Marguerite", "children": [
         {"born": 1979, "firstname": "Mira"},
         {"born": 1985, "firstname": "Charles"}
     ]},
@@ -162,4 +162,10 @@
             {"born": 2012, "firstname": "Darius"}
         ]}
     ]},
+    {"born": 1964, "firstname": "Silvie", "children": [
+        {"born": 1987, "firstname": "Jean-Claude"},
+        {"born": 1990, "firstname": "René"},
+        {"born": 1992, "firstname": "Yvan"},
+        {"born": 1993, "firstname": "Marie-Josée"}
+    ]}
 ]}
