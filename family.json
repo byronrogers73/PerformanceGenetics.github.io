@@ -1,8 +1,10 @@
 {"born": 1500, "firstname": "", "children": [
     {"born": 1600, "firstname": "A2", "children": [
         {"born": 1723, "firstname": "Bonny Lass 1a", "children": [ 
-             {"born": 2011, "firstname": "Strikawar 1a"},
-             {"born": 2011, "firstname": "Awesome Lassie 1a"}
+             {"born": 1870, "firstname": "Penny 1a", "children": [
+                {"born": 2011, "firstname": "Awesome Lassie 1a"},
+                {"born": 2011, "firstname": "Strikawar 1a"}
+        ]}
         ]},
         {"born": 1805, "firstname": "Morel 1b", "children": [ 
              {"born": 1824, "firstname": "Mustard 1c", "children": [ 
