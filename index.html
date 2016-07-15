@@ -32,7 +32,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script>
 var diameter = 1000;
-function yearToY(year){ return (year-1700)*1.0;}
+function yearToY(year){ return (year-1600)*1.0;}
 function getY(d) { 
   //return d.y;
   return yearToY(d.born);
@@ -64,7 +64,7 @@ d3.json("family.json", function(error, root) {
       .attr("class", "link")
       .attr("d", diagonal);
   var decade = svg.selectAll(".decade")
-      .data([1750,1800,1850,1900,1950,2000,2050])
+      .data([1650,1700,1750,1800,1850,1900,1950,2000,2050])
     .enter().append("g")
       .attr("class", "decade")
   decade.append("circle")
