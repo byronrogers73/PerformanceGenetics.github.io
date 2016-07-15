@@ -9,9 +9,13 @@
                     {"born": 2011, "firstname": "Awesome Lassie 1a"}
                 ]}
         ]},
-        {"born": 1878, "firstname": "Lady Chelmsford 1a", "children": [
-                {"born": 2010, "firstname": "Dehere's Chica  1a"},
-                {"born": 2011, "firstname": "A.P Sonata 1a"}
+        {"born": 1878, "firstname": "Lady Chelmsford", "children": [
+                {"born": 1984, "firstname": "Sheena Native", "children": [ 
+                    {"born": 2010, "firstname": "Dehere's Chica  1a"}
+                ]},
+                {"born": 1989, "firstname": "Wheatly Way", "children": [ 
+                    {"born": 2011, "firstname": "A.P Sonata 1a"}
+                ]}
         ]},
         {"born": 1805, "firstname": "Morel 1b", "children": [ 
              {"born": 1824, "firstname": "Mustard 1c", "children": [ 
@@ -30,7 +34,12 @@
             ]}
         ]},
         {"born": 1768, "firstname": "Promise 1d", "children": [ 
-             {"born": 1928, "firstname": "Brulette 1d", "children": [ 
+            {"born": 1788, "firstname": "Prunella 1e", "children": [ 
+                {"born": 1992, "firstname": "Substitute Teacher", "children": [ 
+                    {"born": 2011, "firstname": "Smart and Sensible"}
+                ]}
+            ]},
+             {"born": 1983, "firstname": "Pretty Is", "children": [ 
                 {"born": 2011, "firstname": "Lovers Lane 1d"}
         ]}
         ]}
