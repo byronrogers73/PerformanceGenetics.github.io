@@ -17,5 +17,10 @@
                 {"born": 2011, "firstname": "Lovers Lane 1d"}
         ]}
         ]}
+]},
+    {"born": 1720, "firstname": "Unknown Mare A1", "children": [
+        {"born": 1827, "firstname": "Maria West", "children": [ 
+             {"born": 2011, "firstname": "Tiz My Way A1"}
+]}
 ]}
 ]}
