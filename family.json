@@ -6,7 +6,11 @@
         ]},
         {"born": 1805, "firstname": "Morel 1b", "children": [ 
              {"born": 2011, "firstname": "Ghost Blonde 1b"},
-             {"born": 2011, "firstname": "Oklahoma Kid 1b"}
+             {"born": 2011, "firstname": "Oklahoma Kid 1b"},
+             {"born": 1824, "firstname": "Mustard 1c", "children": [ 
+                {"born": 2011, "firstname": "Dunne for Now  1c"},
+                {"born": 2011, "firstname": "Stormy Novel 1b"}
+        ]} 
         ]} 
         ]}
 ]}
