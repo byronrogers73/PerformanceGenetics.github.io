@@ -38,6 +38,11 @@
                 {"born": 1992, "firstname": "Substitute Teacher", "children": [ 
                     {"born": 2011, "firstname": "Smart and Sensible 1e"}
                 ]},
+                    {"born": 1844, "firstname": "Ellen Horne 1j", "children": [ 
+                         {"born": 1983, "firstname": "Portio", "children": [ 
+                                {"born": 2011, "firstname": "Mr Eco 1j"}
+                ]}
+                ]},
                   {"born": 1990, "firstname": "PennyHill Park ", "children": [ 
                     {"born": 2011, "firstname": "Otoy 1e"}
                 ]},
