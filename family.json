@@ -11,6 +11,11 @@
         ]} ,
             {"born": 2011, "firstname": "Ghost Blonde 1b"},
             {"born": 2011, "firstname": "Oklahoma Kid 1b"}
+        ]},
+        {"born": 1768, "firstname": "Promise 1d", "children": [ 
+             {"born": 1928, "firstname": "Brulette 1d", "children": [ 
+                {"born": 2011, "firstname": "Lovers Lane 1d"}
         ]}
         ]}
+]}
 ]}
