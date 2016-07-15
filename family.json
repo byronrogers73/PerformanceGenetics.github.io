@@ -4,6 +4,10 @@
              {"born": 1870, "firstname": "Penny 1a", "children": [
                 {"born": 2011, "firstname": "Awesome Lassie 1a"},
                 {"born": 2011, "firstname": "Strikawar 1a"}
+        ]},
+        {"born": 1878, "firstname": "Lady Chelmsford 1a", "children": [
+                {"born": 2010, "firstname": "Dehere's Chica  1a"},
+                {"born": 2011, "firstname": "A.P Sonata 1a"}
         ]}
         ]},
         {"born": 1805, "firstname": "Morel 1b", "children": [ 
