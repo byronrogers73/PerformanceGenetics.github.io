@@ -1,9 +1,13 @@
 {"born": 1500, "firstname": "", "children": [
     {"born": 1600, "firstname": "A2", "children": [
         {"born": 1723, "firstname": "Bonny Lass 1a", "children": [ 
-             {"born": 1870, "firstname": "Penny 1a", "children": [
-                {"born": 2011, "firstname": "Awesome Lassie 1a"},
-                {"born": 2011, "firstname": "Strikawar 1a"}
+             {"born": 1870, "firstname": "Penny", "children": [
+                {"born": 1998, "firstname": "Southern Lass", "children": [
+                    {"born": 2011, "firstname": "Strikawar 1a"}
+                ]},
+                {"born": 1998, "firstname": " Lismore Lass", "children": [
+                    {"born": 2011, "firstname": "Awesome Lassie 1a"}
+                ]}
         ]},
         {"born": 1878, "firstname": "Lady Chelmsford 1a", "children": [
                 {"born": 2010, "firstname": "Dehere's Chica  1a"},
@@ -16,11 +20,11 @@
         ]},
             {"born": 2011, "firstname": "Ghost Blonde 1b"},
             {"born": 2011, "firstname": "Oklahoma Kid 1b"}
-        ]}
         ]},
         {"born": 1768, "firstname": "Promise 1d", "children": [ 
              {"born": 1928, "firstname": "Brulette 1d", "children": [ 
                 {"born": 2011, "firstname": "Lovers Lane 1d"}
+        ]}
         ]}
         ]}
 ]},
