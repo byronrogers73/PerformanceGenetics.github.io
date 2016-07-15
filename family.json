@@ -3,7 +3,11 @@
         {"born": 1850, "firstname": "Regulus Mare 1a", "children": [ 
              {"born": 2011, "firstname": "Strikawar 1a"},
              {"born": 2011, "firstname": "Awesome Lassie 1a"}
-    ]} ]},
+    ]},
+    {"born": 1850, "firstname": "Naylor 1a", "children": [ 
+             {"born": 2010, "firstname": "Dehere's Chica 1a"},
+             {"born": 2011, "firstname": "A.P Sonata 1a"}
+    ]},
     {"born": 1947, "firstname": "Jeanne d'Arc", "children": [
         {"born": 1967, "firstname": "Hyacinte", "children": [
             {"born": 1988, "firstname": "Landon"},
