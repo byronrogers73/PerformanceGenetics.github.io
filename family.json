@@ -8,15 +8,15 @@
         {"born": 1878, "firstname": "Lady Chelmsford 1a", "children": [
                 {"born": 2010, "firstname": "Dehere's Chica  1a"},
                 {"born": 2011, "firstname": "A.P Sonata 1a"}
-        ]}
         ]},
         {"born": 1805, "firstname": "Morel 1b", "children": [ 
              {"born": 1824, "firstname": "Mustard 1c", "children": [ 
                 {"born": 2011, "firstname": "Dunne for Now  1c"},
                 {"born": 2011, "firstname": "Stormy Novel 1b"}
-        ]} ,
+        ]},
             {"born": 2011, "firstname": "Ghost Blonde 1b"},
             {"born": 2011, "firstname": "Oklahoma Kid 1b"}
+        ]}
         ]},
         {"born": 1768, "firstname": "Promise 1d", "children": [ 
              {"born": 1928, "firstname": "Brulette 1d", "children": [ 
